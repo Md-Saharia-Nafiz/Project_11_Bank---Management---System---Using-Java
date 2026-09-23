@@ -112,7 +112,7 @@ This project is developed **without a database** and demonstrates the practical 
 
 
 
-<img width="414" height="706" alt="image" src="https://github.com/user-attachments/assets/6d6e1d09-abd9-434f-b21c-42736259f6d6" />
+<img width="414" height="706" alt="image" src="https://github.com/user-attachments/assets/6d6e1d09-abd9-434f-b21c-42736259f6d6" /n>
 
 
 
